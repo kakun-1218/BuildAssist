@@ -28,6 +28,7 @@ public class BuildAssist  extends JavaPlugin {
            7962856,8187856,8412856,8637856,8862856,
            9087856,9312856,9537856,9762856,10000000//100
            ));
+   //プラグインを起動したときに処理するメソッド
 	@Override
 	public void onEnable(){
 
